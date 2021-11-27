@@ -1,0 +1,8 @@
+{
+  "vsicons.presets.jsonOfficial": true,
+  "vsicons.presets.jsOfficial": true,
+  "workbench.settings.editor": "json",
+  "jshint.options": {
+    "esversion": 7
+  }
+}
